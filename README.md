@@ -1,4 +1,4 @@
-# Playground1 — Learn Java by Exploring a Tiny Library App
+# Playground_OOP_Basics — Learn Java by Exploring a Tiny Library App
 
 Welcome! This project is a small, intentionally simple Java codebase that you can use to learn core Java concepts. It models a Library with Books and shows how to work with:
 
